@@ -1,0 +1,44 @@
+.sans-serif {font-family: sans-serif;}
+.monospace {font-family: monospace;}
+
+// Solarized Color Palate
+// Ethan Schoonover
+// http://ethanschoonover.com/solarized
+
+.s-03 {color: #002b36;}
+.s-02 {color: #073642;}
+.s-01 {color: #586e75;}
+.s-00 {color: #657b83;}
+.s-0 {color: #839496;}
+.s-1 {color: #93a1a1;}
+.s-2 {color: #eee8d5;}
+.s-3 {color: #fdf6e3;}
+.s-yellow {color: #b58900;}
+.s-orange {color: #cb4b16;}
+.s-red {color: #dc322f;}
+.s-magenta {color: #d33682;}
+.s-violet {color: #6c71c4;}
+.s-blue {color: #268bd2;}
+.s-cyan {color: #2aa198;}
+.s-green {color: #859900;}
+
+.s-03-bg {background-color: #002b36;}
+.s-02-bg {background-color: #073642;}
+.s-01-bg {background-color: #586e75;}
+.s-00-bg {background-color: #657b83;}
+.s-0-bg {background-color: #839496;}
+.s-1-bg {background-color: #93a1a1;}
+.s-2-bg {background-color: #eee8d5;}
+.s-3-bg {background-color: #fdf6e3;}
+.s-yellow-bg {background-color: #b58900;}
+.s-orange-bg {background-color: #cb4b16;}
+.s-red-bg {background-color: #dc322f;}
+.s-magenta-bg {background-color: #d33682;}
+.s-violet-bg {background-color: #6c71c4;}
+.s-blue-bg {background-color: #268bd2;}
+.s-cyan-bg {background-color: #2aa198;}
+.s-green-bg {background-color: #859900;}
+
+body {background-color: #002b36;}
+
+h1, h2, h3, h4, h5, h6, p {color: #839496;}

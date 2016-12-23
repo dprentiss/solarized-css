@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Solarized CSS Theme</title>
+<link rel="stylesheet" type="text/css" href="./solarized.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro" rel="stylesheet">
+<style>
+</style>
+</head>
+<body>
+<h1>Solarized CSS Theme</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lobortis mauris ac purus ultricies posuere. Quisque quis risus sed ligula suscipit sagittis quis in purus. Nunc pharetra eros sollicitudin lobortis malesuada. Nunc nibh augue, commodo nec libero a, gravida commodo tortor. Nulla laoreet mollis ligula. Praesent volutpat blandit velit, quis mollis orci mattis nec. Integer mollis, leo vitae vulputate ultricies, nunc erat luctus ex, in blandit urna odio id est. Nullam non sollicitudin est. Integer ullamcorper eros quis nunc aliquam pretium.</p>
+<p class="sans-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lobortis mauris ac purus ultricies posuere. Quisque quis risus sed ligula suscipit sagittis quis in purus. Nunc pharetra eros sollicitudin lobortis malesuada. Nunc nibh augue, commodo nec libero a, gravida commodo tortor. Nulla laoreet mollis ligula. Praesent volutpat blandit velit, quis mollis orci mattis nec. Integer mollis, leo vitae vulputate ultricies, nunc erat luctus ex, in blandit urna odio id est. Nullam non sollicitudin est. Integer ullamcorper eros quis nunc aliquam pretium.</p>
+<pre>Lorem ipsum (dolor sit amet) {
+    consectetur adipiscing elit;
+    Vivamus lobortis = 2;
+}</pre>
+
+</body>
+</html>
